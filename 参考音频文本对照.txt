@@ -1,0 +1,24 @@
+台词独白/chr_0036_jsspsi_mono_self_line02_p1.wav
+    参考文本：嗯，闻闻这茶香看见对面的悬崖没有
+台词独白/chr_0036_jsspsi_mono_self_line02_p5.wav
+    参考文本：和你的一点也不许上，还有不许你抬头看我
+战斗/chr_0036_jsspsi_chrbark_join_02.wav
+    参考文本：你别不说话，太安静了，我反而容易分神
+战斗/chr_0036_jsspsi_chrbark_squad_02.wav
+    参考文本：再帮你一把回客栈了，记得找我清账
+战斗指令/chr_0036_jsspsi_combat_outbattle_hard_01.wav
+    参考文本：再难也是赢了，赢了，就别念头大脑的了
+战斗指令/chr_0036_jsspsi_combat_outbattle_nor_02.wav
+    参考文本：又有了不少灵感，今天这趟门倒是出对了
+日常闲聊/au_sim_talk_jsspsi_max_02_p3.wav
+    参考文本：你这个人要么一睡睡十年，要么连眼睛都舍不得闭一下
+日常闲聊/chr_0036_jsspsi_sim_talk_max_02_p3.wav
+    参考文本：你这个人要么一睡睡十年，要么连眼睛都舍不得闭一下
+赠礼/au_sim_gift_jsspsi_give_01_p1.wav
+    参考文本：送你的礼物，随手画的没必要太激动
+赠礼/chr_0036_jsspsi_sim_gift_give_01_p1.wav
+    参考文本：那送你的礼物随手画的没必要太激动
+问候/au_greetenvtalk_jsspsi_max_01.wav
+    参考文本：十年前答应的事情，你打算什么时候补上
+问候/chr_0036_jsspsi_sim_hello_max_01.wav
+    参考文本：十年前答应的事情，你打算什么时候补上
